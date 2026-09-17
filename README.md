@@ -1,12 +1,12 @@
-# 📚 Atividade de Sintaxe — Python e C
+# Atividade de Sintaxe — Python e C
 
-## 👨‍💻 Informações
+## Informações
 
 #Aluno: Kaio Eduardo Camargo Severo 
 #Disciplina: Programação / Sintaxe  
 #Linguagens utilizadas: Python e C
 
-## 📌 Sobre a atividade
+## Sobre a atividade
 
 Esta atividade tem como objetivo praticar e comparar a sintaxe de diferentes linguagens de programação.
 
@@ -17,7 +17,7 @@ Foram escolhidas as linguagens:
 
 Os mesmos exercícios foram implementados nas duas linguagens, permitindo observar as principais diferenças de sintaxe, estrutura e funcionamento entre elas.
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
 #atividade-sintaxe/
 
